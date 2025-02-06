@@ -24,7 +24,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text('Home Page')),
-      body: Center(child: Text('Hello, World! iam shaaadh',style: GoogleFonts.poppins(fontSize: 20,fontWeight: FontWeight.bold),)),
+      body: Center(child: Text('Hello, World! iam nihaaalaaa',style: GoogleFonts.poppins(fontSize: 20,fontWeight: FontWeight.bold),)),
     );
   }
 }
